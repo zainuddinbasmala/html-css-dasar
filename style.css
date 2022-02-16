@@ -1,0 +1,25 @@
+table {
+    width: 200px;
+    background-color: azure;
+    text-align: center;
+}
+
+table tr {
+    background-color: blanchedalmond;
+}
+
+table tr th {
+    color: blue;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: yellow;
+    color: blue;
+}
